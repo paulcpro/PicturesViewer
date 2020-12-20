@@ -1,2 +1,5 @@
 .vs
 keygen
+bin
+obj
+Properties/AssemblyInfo.cs
